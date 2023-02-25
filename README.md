@@ -1,2 +1,5 @@
 # Transfer-Learning-with-ResNet50
-A repo exploring the use of ResNet50 model for flower classification.
+
+Transfer learning is particularly useful when there is limited data available for the new task. Pre-training a model on a large dataset for a related task can help improve the performance of the new model, even with limited data. This is because the pre-trained model has already learned a lot about the relevant features of the data, and can provide a useful starting point for the new model. Additionally, transfer learning can help reduce the computational resources needed for training a new model from scratch, as it can reduce the training time and memory requirements.
+
+Transfer learning is a powerful technique that can help improve the performance of machine learning models, by leveraging the knowledge and expertise gained from pre-training models on related tasks. It can be particularly useful when there is limited data available for the new task, and when computational resources are limited. Transfer learning has shown great promise in many real-world applications, and it is likely to play an increasingly important role in the future of machine learning.
